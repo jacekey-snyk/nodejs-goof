@@ -48,7 +48,7 @@
     "typeorm": "^0.2.25",
     "validator": "^13.5.2",
     "react-scripts": "5.0.0",
-    "acorn": "8.7.0"
+    "acorn": "5.7.4"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
